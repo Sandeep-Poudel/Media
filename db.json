@@ -1,12 +1,24 @@
 {
   "users": [
     {
-      "name": "Chad Rippin",
+      "name": "Courtney Murray",
       "id": 1
     },
     {
-      "name": "Inez Zulauf",
-      "id": 7
+      "name": "Rosalie Anderson",
+      "id": 2
+    },
+    {
+      "name": "Mabel Rowe",
+      "id": 3
+    },
+    {
+      "name": "Laurie Hahn",
+      "id": 4
+    },
+    {
+      "name": "Patricia Rohan",
+      "id": 5
     }
   ],
   "albums": [],
