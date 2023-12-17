@@ -12,14 +12,35 @@
   "albums": [
     {
       "userId": 1,
-      "title": "Incredible Concrete Shirt",
-      "id": 4
+      "title": "Generic Frozen Tuna",
+      "id": 1
     },
     {
       "userId": 1,
-      "title": "Luxurious Granite Pizza",
-      "id": 5
+      "title": "Awesome Fresh Computer",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Modern Rubber Mouse",
+      "id": 3
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7072870595297280",
+      "id": 1
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3171195933425664",
+      "id": 2
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3171195933425664",
+      "id": 3
+    }
+  ]
 }
