@@ -1,26 +1,25 @@
 {
   "users": [
     {
-      "name": "Courtney Murray",
+      "name": "Alvin Murazik",
       "id": 1
     },
     {
-      "name": "Rosalie Anderson",
+      "name": "Leticia Klein MD",
       "id": 2
-    },
+    }
+  ],
+  "albums": [
     {
-      "name": "Mabel Rowe",
-      "id": 3
-    },
-    {
-      "name": "Laurie Hahn",
+      "userId": 1,
+      "title": "Incredible Concrete Shirt",
       "id": 4
     },
     {
-      "name": "Patricia Rohan",
+      "userId": 1,
+      "title": "Luxurious Granite Pizza",
       "id": 5
     }
   ],
-  "albums": [],
   "photos": []
 }

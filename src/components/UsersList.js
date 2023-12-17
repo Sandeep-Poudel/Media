@@ -56,7 +56,7 @@ function UsersList() {
     return (
         <div>
             <div className="flex flex-row justify-between m-3 items-center">
-                <h1 className="m-2 text-xl">
+                <h1 className="m-2 text-xl font-bold">
                     Users
                 </h1>
 
